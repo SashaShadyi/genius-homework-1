@@ -1,0 +1,53 @@
+.nav1 {
+    color: #011C44;
+    text-decoration: none;
+    
+}
+.nav1:hover {
+    text-decoration: none;
+    color: #2B7FFF;
+}
+.section {
+    color: #011C44;
+    font-family: play;
+}
+.blue {
+    color: #2B7FFF;
+}
+.gray {
+    color: #4A4A4A;
+}
+.gray2 {
+    color: #747272;
+}
+.span1 {
+    font-family: Roboto;
+    font-size: 22px;
+    font-weight: 600;
+    line-height: 38px;
+    text-align: left;
+}
+.button {
+    width: Hug (219px)px;
+    height: Hug (53px)px;
+    padding: 16px 32px 16px 32px;
+    gap: 10px;
+    border-radius: 32px;
+    opacity: 0px;
+    color: #FFFFFF;
+    border-color: #2B7FFF;
+    background-color: #2B7FFF;
+    cursor: pointer;
+}
+.button2 {
+    width: Hug (219px)px;
+    height: Hug (53px)px;
+    padding: 16px 32px 16px 32px;
+    gap: 10px;
+    border-radius: 32px;
+    opacity: 0px;
+    color: #FFFFFF;
+    border-color: #2B7FFF;
+    background-color: #2B7FFF;
+    cursor: pointer;
+}
